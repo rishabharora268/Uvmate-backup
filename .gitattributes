@@ -1,1 +1,2 @@
 wordpress_06_05_22.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
